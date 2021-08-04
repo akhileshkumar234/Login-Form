@@ -1,0 +1,33 @@
+body{
+    background-image: radial-gradient(circle, rgb(248, 242, 242), #e6e635, rgb(204, 119, 22));
+}
+
+.upper{
+    background-color: antiquewhite;
+    align-items: center;
+    height: 400px;
+    width: 500px;
+    margin-top: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+}
+h2 {
+    text-shadow: 2px 2px 5px red;
+  }
+
+  .textMargin{
+    text-align: center;
+  }
+  .textSize{
+      font-size: 20px;
+  }
+  .upperRegistration{
+    background-color: antiquewhite;
+    align-items: center;
+    height: 580px;
+    width: 1000px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+}
